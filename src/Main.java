@@ -20,7 +20,7 @@ public Class Main() {
         practiceList.set(0, 15);
         System.out.println(practiceList.get(0));
         practiceList.remove(0);
-
+        //Instance practice
         Map<String, Integer> mapPractice = new HashMap<String, Integer>();
         mapPractice.put("Hello", 5);
         mapPractice.put("World", 10);
